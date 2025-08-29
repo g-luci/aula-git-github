@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int num1 = 3, num2 = 5, soma;
+            soma = num1 + num2;
         }
     }
 }
